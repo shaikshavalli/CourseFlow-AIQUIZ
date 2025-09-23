@@ -1,0 +1,101 @@
+[
+    {
+        "id": 12001,
+        "name": "Python",
+        "title":"Coding",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.seeklogo.com/logo-png/33/1/python-logo-png_seeklogo-332789.png",
+        "bookUrl": "https://drive.google.com/file/d/1b05BssGPKNt7SUCz_bDqs62d75JnVhYh/preview"
+    },
+    {
+        "id": 12002,
+        "name": "Java",
+        "title":"Coding",
+        "price": 0,
+        "category": "Course",
+        "image": "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png",
+        "bookUrl": "https://drive.google.com/file/d/1LDLQeWHiDMRQJzrIVU3wpcmD1COzD8bn/preview"
+    },
+    {
+        "id": 12003,
+        "name": "C#",
+        "title":"Coding",
+        "price": 100,
+        "category": "Course",
+        "image": "https://imgs.search.brave.com/IICfC5RHHvya2lVRr5AIFsOlF_ngubET0wH3_CHlRDs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTExYi1mdDV1U0wu/anBn",
+        "bookUrl": "https://drive.google.com/file/d/1WifVGpK7n65on92QS42nYEpbrTqUp0ZC/preview"
+    },
+    {
+        "id": 12004,
+        "name": "C++",
+        "title":"Coding",
+        "price": 0,
+        "category": "Course",
+        "image": "https://cdn.worldvectorlogo.com/logos/c.svg",
+        "bookUrl": "https://drive.google.com/file/d/1VpTnx1k5j-TaFErzGSdSilZEyKcAjoNZ/preview"
+    },
+    {
+        "id": 12005,
+        "name": "C",
+        "title":"Coding",
+        "price": 150,
+        "category": "Cost",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/C_Language_Logo.svg",
+        "bookUrl": "https://drive.google.com/file/d/1dR8QwxKRfpeX4WSeF_Qzbenh4VPD-sHX/preview"
+    },
+    {
+        "id": 12006,
+        "name": "React",
+        "title":"Frontend",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.unsplash.com/photo-1670057046254-3b5095eb4b66?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJlYWN0JTIwanN8ZW58MHx8MHx8fDA=",
+        "bookUrl": "https://drive.google.com/file/d/13RDsjbn9mS8ahKYGXdZh19FfpWVKZrZk/preview"
+    },
+    {
+        "id": 12007,
+        "name": "HTML",
+        "title":"Backend",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-psd/3d-web-programming-html-css-js-illustration_394084-544.jpg?semt=ais_hybrid&w=740",
+        "bookUrl": "https://drive.google.com/file/d/1FtnvXds-m7f5lKV1FMCqL5T-DefK4AGl/preview"
+    },
+    {
+        "id": 12008,
+        "name": "DV",
+        "title":"Analytics",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/dashboard-analytics-computer-performance-evaluation-chart-screen-statistics-analysis-infographic-assessment-business-report-display-vector-isolated-concept-metaphor-illustration_335657-1990.jpg?semt=ais_hybrid&w=740&q=80",
+        "bookUrl": "https://drive.google.com/file/d/10EmhrU95flUn3DZSmGXKlIbDJn7eciqG/preview"
+    },
+    {
+        "id": 12009,
+        "name": "DSA",
+        "title":"Algorithms & Patterns",
+        "price": 150,
+        "category": "Cost",
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230330125518/DSA-Concepts.png",
+        "bookUrl": "https://drive.google.com/file/d/1VhmfuKFmIjs7JsIkTAEnoKlV52wKbau0Z/preview"
+    },
+    {
+        "id": 12010,
+        "name": "AI",
+        "title":"Core Concepts Of AI",
+        "price": 0,
+        "category": "Free",
+        "image": "https://cdn.pixabay.com/photo/2024/01/29/22/47/ai-generated-8540920_640.jpg",
+        "bookUrl": "https://drive.google.com/file/d/1uIXOcl-FX2sOAB9GNTPpZ2O5lRZ4ocId/preview"
+    },
+    {
+        "id": 12011,
+        "name": "ML",
+        "title":"Core Concepts Of ML",
+        "price": 0,
+        "category": "Free",
+        "image": "https://thumbs.dreamstime.com/b/machine-learning-concept-as-modern-technology-181942719.jpg",
+        "bookUrl": "https://drive.google.com/file/d/1IX_BQ7hTbVYHPkutQaKUD0_E-Xrx2mfL/preview"
+    }
+]
