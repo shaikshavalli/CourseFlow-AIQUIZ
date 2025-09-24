@@ -13,7 +13,7 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const FRONTEND_URL = "https://courseflow-60.onrender.com"
+
 // --- CORS Configuration ---
 // This correctly uses an environment variable for the frontend URL.
 // Remember to set FRONTEND_URL in your Render dashboard.
